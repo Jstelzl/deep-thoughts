@@ -21,7 +21,7 @@ type Reaction {
 
   type Query {
     thoughts(username: String): [Thought]
-  }
+}
 `;
 
 // export the typeDefs
